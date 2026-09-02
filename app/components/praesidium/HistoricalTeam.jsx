@@ -149,11 +149,7 @@ const historicalPraesidia = [
         name: "Bieke Saerens",
       },
       {
-        function: "Ab-actis",
-        name: "Tristan Somers",
-      },
-      {
-        function: "P.R.",
+        function: "P.R./Ab-actis",
         name: "Tristan Somers",
       },
       {
@@ -191,11 +187,7 @@ const historicalPraesidia = [
         name: "Isaura Laureys",
       },
       {
-        function: "Ab-actis",
-        name: "Annelies Weyts",
-      },
-      {
-        function: "P.R.",
+        function: "P.R./Ab-actis",
         name: "Annelies Weyts",
       },
       {
@@ -229,11 +221,7 @@ const historicalPraesidia = [
         name: "Amélie Ardouille",
       },
       {
-        function: "Ab-actis",
-        name: "Ines Van den Bogaert",
-      },
-      {
-        function: "P.R.",
+        function: "P.R./Ab-actis",
         name: "Ines Van den Bogaert",
       },
       {
@@ -309,11 +297,7 @@ const historicalPraesidia = [
         name: "Yelle Boey",
       },
       {
-        function: "Ab-actis",
-        name: "Eline Winkelhorst",
-      },
-      {
-        function: "P.R.",
+        function: "P.R./Ab-actis",
         name: "Eline Winkelhorst",
       },
       {
@@ -427,7 +411,7 @@ const historicalPraesidia = [
 ];
 
 const mentors = {
-  "2015–2016": "Senne Van Bruggen en Joeri Van Dingene(n)",
+  "2015–2016": "Senne Van Bruggen en Joeri Van Dingene",
   "2016–2017": "Senne Van Bruggen",
   "2017–2018": "Yorne Thys",
   "2018–2019": "Lesly Heyvaert",
