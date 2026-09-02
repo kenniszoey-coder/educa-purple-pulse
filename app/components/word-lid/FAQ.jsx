@@ -232,7 +232,7 @@ export default function FAQ() {
             <p className="mt-6 text-base leading-8 text-gray-300">
               De nadoop is een herkansing voor wie niet aanwezig kon
               zijn op de doop. Deze verloopt op dezelfde manier als de
-              gewone doop.
+              gewone doop. Deze zal doorgaan op vrijdag 16 oktober.
             </p>
 
           </div>

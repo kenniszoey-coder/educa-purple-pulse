@@ -48,7 +48,7 @@ export default function Team() {
           name="Stijn Oste"
           role="Vice-praeses"
           image="/images/praesidium/vice-praeses.jpg"
-          description="Joew! Ik ben Stijn, jullie vice-praeses en de rechterhand van onze praeses. Samen vormen we een sterk duo en zorgen we ervoor dat alles binnen het praesidium op soepel loopt. Ik ondersteun het hele praesidium en neem taken over waar nodig. Ook organiseer ik onze befaamde Educa-weekends."
+          description="Joew! Ik ben Stijn, jullie Vice-Praeses en de rechterhand van onze Praeses. Samen vormen we een sterk duo en zorgen we ervoor dat alles binnen het praesidium soepel verloopt. Ik ondersteun het hele praesidium en neem taken over waar nodig. Ook organiseer ik onze befaamde Educa-weekends."
         />
 
         <MemberCard
@@ -77,7 +77,7 @@ Ut vivat, crescat et floreat! 💜`}
           name="Ward Verheyen"
           role="Schachtenmeester"
           image="/images/praesidium/schachten-meester.jpg"
-          description="Wazzzaaap! Ik ben Ward, schachtenmeester van Educa. Ik zit momenteel in mijn tweede jaar van de lerarenopleiding lager onderwijs op Thomas More. In mijn vrije tijd geniet ik van sporten en een zalig feestje met een pintje in de hand. Ik kijk ernaar uit om nieuwe schachten op te leiden en ze welkom te heten in deze zalige familie!"
+          description="Wazzzaaap! Ik ben Ward, Schachtenmeester van Educa. Ik zit momenteel in mijn tweede jaar van de lerarenopleiding lager onderwijs op Thomas More. In mijn vrije tijd geniet ik van sporten en een zalig feestje met een pintje in de hand. Ik kijk ernaar uit om nieuwe schachten op te leiden en ze welkom te heten in deze zalige familie!"
         />
 
         <MemberCard
@@ -92,7 +92,7 @@ Ut vivat, crescat et floreat! 💜`}
           role="Spocul"
           image="/images/praesidium/spocul.jpg"
           imageFit="contain"
-          description="Jeeeep! Tis de Kobe hier. Jullie spocul voor dit academiejaar. Ik ga nu naar mn 3de jaar BASO dus weet hoe het is om een student te zijn in de Lerarenopleiding. Voor vragen of ideeën ben ik altijd een luisterend oor! Maar vooral voor activiteiten en cantussen kan je me al helemaal vinden! Tot in den draai!"
+          description="Jeeeep! Tis de Kobe hier. Jullie Spocul voor dit academiejaar. Ik ga nu naar mn 3de jaar BASO dus weet hoe het is om een student te zijn in de Lerarenopleiding. Voor vragen of ideeën ben ik altijd een luisterend oor! Maar vooral voor activiteiten en cantussen kan je me al helemaal vinden! Tot in den draai!"
         />
 
         <MemberCard
@@ -100,8 +100,8 @@ Ut vivat, crescat et floreat! 💜`}
           role="Cantor"
           image="/images/praesidium/cantor.jpg"
           description={`Ghello!
-Ik ben Tygo en dit jaar ben ik al voor een tweede keer cantor!
-Als cantor ben ik 'het muzikaal kompas' van de cantus: ik zet (meestal) de liedjes in, hou het tempo strak en zorg ervoor dat zelfs de grootste codexsukkel kan meebrullen. Samen met de praeses waak ik over de orde (of toch wat daar nog van overblijft). De liederen kiezen we samen, afgestemd op de sfeer en de gezelligheid van het moment.
+Ik ben Tygo en dit jaar ben ik al voor een tweede keer Cantor!
+Als Cantor ben ik 'het muzikaal kompas' van de cantus: ik zet (meestal) de liedjes in, hou het tempo strak en zorg ervoor dat zelfs de grootste codexsukkel kan meebrullen. Samen met de praeses waak ik over de orde (of toch wat daar nog van overblijft). De liederen kiezen we samen, afgestemd op de sfeer en de gezelligheid van het moment.
 
 Foute noot? No stress, in vino veritas — zolang je zingt met overtuiging, zit je meestal wel goed. Stem kwijt of uit de maat? Dan zing ik gewoon wat harder. Geen probleem, ik ben toch al luid.
 
@@ -120,7 +120,7 @@ Samengevat: lawaai maken en plezant doen met vrienden… dáár draait het om!`}
           name="Axel De Saedeleir"
           role="Mentor"
           image="/images/praesidium/mentor.jpg"
-          description="Hey hey! Ik ben Axel: een open, sociaal en empathisch persoon die graag klaarstaat voor anderen. Ik vind het belangrijk dat iedereen zich welkom, gehoord en goed voelt binnen Educa. Dit jaar ben ik mentor van het huidige praesidium. Dat betekent dat zij bij mij terechtkunnen met vragen, twijfels of wanneer ze gewoon even hun hart willen luchten. Ik bied graag een luisterend oor en probeer hen zo goed mogelijk te ondersteunen doorheen het jaar."
+          description="Hey hey! Ik ben Axel: een open, sociaal en empathisch persoon die graag klaarstaat voor anderen. Ik vind het belangrijk dat iedereen zich welkom, gehoord en goed voelt binnen Educa. Dit jaar ben ik Mentor van het huidige praesidium. Dat betekent dat zij bij mij terechtkunnen met vragen, twijfels of wanneer ze gewoon even hun hart willen luchten. Ik bied graag een luisterend oor en probeer hen zo goed mogelijk te ondersteunen doorheen het jaar."
         />
 
       </div>
