@@ -20,7 +20,7 @@ const historicalPraesidia = [
       },
       {
         function: "P.R./Ab-actis",
-        name: "Epiphany Cuypers",
+        name: "Epiphani Cuypers",
       },
       {
         function: "Schachtenmeester",
@@ -29,6 +29,10 @@ const historicalPraesidia = [
       {
         function: "Schachtentemmer",
         name: "Jolan Cusin",
+      },
+      {
+        function: "Feestleider",
+        name: "Evy Huysmans",
       },
       {
         function: "Spocul",
@@ -46,7 +50,7 @@ const historicalPraesidia = [
       },
       {
         function: "Vice-Praeses",
-        name: "Jelle Dauwe",
+        name: "Yorne Thys",
       },
       {
         function: "Quaestor",
@@ -54,7 +58,7 @@ const historicalPraesidia = [
       },
       {
         function: "P.R./Ab-actis",
-        name: "Gitte Devos",
+        name: "Gitte De Vos",
       },
       {
         function: "Schachtenmeester",
@@ -63,6 +67,10 @@ const historicalPraesidia = [
       {
         function: "Schachtentemmer",
         name: "Stephanie Van Malderen",
+      },
+      {
+        function: "Feestleider",
+        name: "Lesly Heyvaert",
       },
       {
         function: "Redactor",
@@ -88,15 +96,19 @@ const historicalPraesidia = [
       },
       {
         function: "Vice-Praeses",
-        name: "Yorne Thys",
+        name: "Jelle Dauwe",
       },
       {
         function: "Quaestor",
         name: "Senne Cools",
       },
       {
-        function: "P.R./Ab-actis",
-        name: "Bieke Sarens",
+        function: "Ab-actis",
+        name: "Bieke Saerens",
+      },
+      {
+        function: "P.R.",
+        name: "Annelies Weyts",
       },
       {
         function: "Schachtenmeester",
@@ -105,6 +117,10 @@ const historicalPraesidia = [
       {
         function: "Schachtentemmer",
         name: "Renske Dauwe",
+      },
+      {
+        function: "Feestleider",
+        name: "Jonas Moons",
       },
       {
         function: "Spocul",
@@ -130,10 +146,14 @@ const historicalPraesidia = [
       },
       {
         function: "Quaestor",
-        name: "Bieke Sarens",
+        name: "Bieke Saerens",
       },
       {
-        function: "P.R./Ab-actis",
+        function: "Ab-actis",
+        name: "Tristan Somers",
+      },
+      {
+        function: "P.R.",
         name: "Tristan Somers",
       },
       {
@@ -143,6 +163,10 @@ const historicalPraesidia = [
       {
         function: "Schachtentemmer",
         name: "Lindsey Van Baelen",
+      },
+      {
+        function: "Feestleider",
+        name: "Kenny Verhasselt",
       },
       {
         function: "Spocul",
@@ -167,7 +191,11 @@ const historicalPraesidia = [
         name: "Isaura Laureys",
       },
       {
-        function: "P.R./Ab-actis",
+        function: "Ab-actis",
+        name: "Annelies Weyts",
+      },
+      {
+        function: "P.R.",
         name: "Annelies Weyts",
       },
       {
@@ -194,14 +222,18 @@ const historicalPraesidia = [
       },
       {
         function: "Vice-Praeses",
-        name: "Amélie Ardoullie",
+        name: "Amélie Ardouille",
       },
       {
         function: "Quaestor",
-        name: "Amélie Ardoullie",
+        name: "Amélie Ardouille",
       },
       {
-        function: "P.R./Ab-actis",
+        function: "Ab-actis",
+        name: "Ines Van den Bogaert",
+      },
+      {
+        function: "P.R.",
         name: "Ines Van den Bogaert",
       },
       {
@@ -211,6 +243,10 @@ const historicalPraesidia = [
       {
         function: "Schachtentemmer",
         name: "Lars Claessen",
+      },
+      {
+        function: "Feestleider",
+        name: "Sarah Van den Bulcke",
       },
       {
         function: "Spocul",
@@ -235,12 +271,12 @@ const historicalPraesidia = [
         name: "Inge Weymeers",
       },
       {
-        function: "P.R.",
-        name: "Kato Op De Beeck",
-      },
-      {
         function: "Ab-actis",
         name: "Kyra Bulinckx",
+      },
+      {
+        function: "P.R.",
+        name: "Kato Op de Beeck",
       },
       {
         function: "Schachtenmeester",
@@ -273,12 +309,12 @@ const historicalPraesidia = [
         name: "Yelle Boey",
       },
       {
-        function: "P.R.",
+        function: "Ab-actis",
         name: "Eline Winkelhorst",
       },
       {
-        function: "Ab-actis",
-        name: "Emile Decker",
+        function: "P.R.",
+        name: "Eline Winkelhorst",
       },
       {
         function: "Schachtenmeester",
@@ -290,7 +326,7 @@ const historicalPraesidia = [
       },
       {
         function: "Cantor",
-        name: "Sander Van Hullebusch",
+        name: "Sander Hullebusch",
       },
     ],
   },
@@ -314,6 +350,10 @@ const historicalPraesidia = [
         function: "Schachtenmeester",
         name: "Axel De Saedeleir",
       },
+      {
+        function: "Feestleider",
+        name: "Maeva Clabots",
+      },
     ],
   },
 
@@ -331,6 +371,10 @@ const historicalPraesidia = [
       {
         function: "Schachtentemmer",
         name: "Thomas Aerts",
+      },
+      {
+        function: "Feestleider",
+        name: "Zeno Van de Voorde",
       },
       {
         function: "Zedenmeester",
@@ -368,7 +412,7 @@ const historicalPraesidia = [
       },
       {
         function: "Redactor",
-        name: "Noa van Batenburg",
+        name: "Noa Van Batenburg",
       },
       {
         function: "Spocul",
@@ -383,13 +427,15 @@ const historicalPraesidia = [
 ];
 
 const mentors = {
+  "2015–2016": "Senne Van Bruggen en Joeri Van Dingene(n)",
+  "2016–2017": "Senne Van Bruggen",
   "2017–2018": "Yorne Thys",
   "2018–2019": "Lesly Heyvaert",
   "2019–2020": "Jolan Cusin",
-  "2020–2021": "Laura Greven & Jelle Dauwe",
+  "2020–2021": "Laura Greven en Jelle Dauwe",
   "2021–2022": "Joni De Leus",
   "2022–2023": "Lars Claessen",
-  "2023–2024": "Felke Adriaenssens & Kato Op de Beeck",
+  "2023–2024": "Kato Op de Beeck en Felke Adriaenssens",
   "2024–2025": "Inge Weymeers",
 };
 
