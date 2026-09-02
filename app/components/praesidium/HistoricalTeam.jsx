@@ -326,7 +326,7 @@ const historicalPraesidia = [
       },
       {
         function: "P.R./Ab-actis",
-        name: "Noor Baumers – nog te bevestigen",
+        name: "Robin Van Eersel",
       },
       {
         function: "Schachtentemmer",
@@ -355,7 +355,11 @@ const historicalPraesidia = [
         name: "Milan Van der Poel",
       },
       {
-        function: "P.R./Ab-actis",
+        function: "P.R.",
+        name: "Noor Baumers",
+      },
+      {
+        function: "Ab-actis",
         name: "Robin Van Eersel",
       },
       {
