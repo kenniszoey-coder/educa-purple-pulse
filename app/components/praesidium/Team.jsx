@@ -88,7 +88,7 @@ Ut vivat, crescat et floreat! 💜`}
         />
 
         <MemberCard
-          name="Kobe Van Herle"
+          name="Kobe Vanherle"
           role="Spocul"
           image="/images/praesidium/spocul.jpg"
           imageFit="contain"

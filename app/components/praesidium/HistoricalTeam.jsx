@@ -395,6 +395,10 @@ const historicalPraesidia = [
         name: "Stijn Oste",
       },
       {
+        function: "Zedenmeester",
+        name: "Kato Op de Beeck",
+      },
+      {
         function: "Redactor",
         name: "Noa Van Batenburg",
       },
