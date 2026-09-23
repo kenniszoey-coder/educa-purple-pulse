@@ -62,6 +62,21 @@ export default function Curtain() {
 
             </div>
 
+            {/* Inschrijven */}
+
+            <div className="mt-6">
+
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfyYH1L3sKUYMejULv9CbYETz9omOhDytNnpdP7KbTj9Rn9Zg/viewform?usp=header"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex rounded-full bg-teal-500 px-8 py-4 font-bold uppercase tracking-wide text-white shadow-lg transition hover:scale-105 hover:bg-teal-400"
+              >
+                Schrijf je in voor de doop
+              </a>
+
+            </div>
+
           </div>
 
         </div>
