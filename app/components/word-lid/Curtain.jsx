@@ -64,15 +64,15 @@ export default function Curtain() {
 
             {/* Inschrijven */}
 
-            <div className="mt-6">
+            <div className="mt-7 flex justify-center sm:mt-8">
 
               <a
                 href="https://docs.google.com/forms/d/e/1FAIpQLSfyYH1L3sKUYMejULv9CbYETz9omOhDytNnpdP7KbTj9Rn9Zg/viewform?usp=header"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex rounded-full bg-teal-500 px-8 py-4 font-bold uppercase tracking-wide text-white shadow-lg transition hover:scale-105 hover:bg-teal-400"
+                className="rounded-full bg-teal-500 px-8 py-4 font-bold text-white shadow-lg transition hover:scale-105 hover:bg-teal-400 sm:px-10"
               >
-                Schrijf je in voor de doop
+                SCHRIJF JE IN VOOR DE DOOP
               </a>
 
             </div>
@@ -85,7 +85,7 @@ export default function Curtain() {
 
       {/* Countdown */}
 
-      <div className="relative z-20 -mt-10 flex justify-center px-4 sm:-mt-12 sm:px-6 md:-mt-16">
+      <div className="relative z-20 mt-8 flex justify-center px-4 sm:mt-10 sm:px-6 md:mt-12">
 
         <div className="w-full max-w-md rounded-3xl border border-white/15 bg-[#1B1733]/95 px-4 py-5 shadow-2xl backdrop-blur-xl sm:px-6 sm:py-6 md:max-w-fit md:px-8">
 
